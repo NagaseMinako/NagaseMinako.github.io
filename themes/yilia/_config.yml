@@ -2,8 +2,8 @@
 menu:
   主页: /
   所有文章: /archives
-#  tag: /tags
-#  合集: /categories
+  tag: /tags
+  合集: /categories
 #  关于我: /about
 
 # SubNav
