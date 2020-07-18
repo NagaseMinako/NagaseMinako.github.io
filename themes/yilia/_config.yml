@@ -2,9 +2,9 @@
 menu:
   主页: /
   所有文章: /archives
-  标签:Hello-World: /tags/Hello-World
-  分类:未分类: /categories/uncategorized
-  关于我: /about
+  tag: /tags
+  合集: /categories
+#  关于我: /about
 
 # SubNav
 subnav:
@@ -33,7 +33,7 @@ open_in_new: false
 
 # Miscellaneous
 # google_analytics: ''
-# favicon: /favicon.png
+favicon: /favicon.png
 
 #你的头像url
 avatar: https://avatars3.githubusercontent.com/u/68460660?s=400&u=c6c84298b8d4bd5a7387f67caaa764418a4f3cac&v=4
@@ -55,6 +55,6 @@ friends: false
 
 #是否开启“关于我”。
 #不开启——
-aboutme: false
+#aboutme: false
 #开启——
-#aboutme: 随便写点 ...
+aboutme: 随便写点 ...
