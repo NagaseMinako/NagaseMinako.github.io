@@ -8,7 +8,7 @@ menu:
 
 # SubNav
 subnav:
-  github: "https://github.com/yourname"
+  #github: "https://github.com/yourname"
   #weibo: "#"
   #rss: "#"
   #zhihu: "#"
@@ -36,7 +36,7 @@ open_in_new: false
 # favicon: /favicon.png
 
 #你的头像url
-avatar: https://github.githubassets.com/images/modules/logos_page/Octocat.png
+avatar: https://avatars0.githubusercontent.com/u/68460660?s=400&u=c8ca9f6ab2996051f5c90b42fef58dd76753f182&v=4
 #是否开启分享
 share: false
 #是否开启云标签
