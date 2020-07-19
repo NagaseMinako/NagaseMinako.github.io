@@ -70,8 +70,8 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 theme: yilia
 #theme: next
-#stylus:
-#  compress: true
+stylus:
+  compress: true
 
 
 # Deployment
