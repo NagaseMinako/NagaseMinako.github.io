@@ -5,9 +5,9 @@
 # Site
 title: Chobitly
 subtitle:
-description: Description
+description: 随便写点……
 author: Chobitly
-language: zh-Hans
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
@@ -69,6 +69,7 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 theme: yilia
+#theme: next
 #stylus:
 #  compress: true
 

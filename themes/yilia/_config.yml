@@ -2,8 +2,9 @@
 menu:
   主页: /
   所有文章: /archives
-  tag: /tags
-  合集: /categories
+  近期更新: /top
+  tag: /tag
+  合集: /category
 #  关于我: /about
 
 # SubNav
@@ -21,7 +22,7 @@ subnav:
 # rss: /atom.xml
 
 # Content
-excerpt_link: more
+excerpt_link: 全文
 fancybox: true
 mathjax: true
 
