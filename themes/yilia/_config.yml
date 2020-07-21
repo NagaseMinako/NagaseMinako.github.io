@@ -36,7 +36,7 @@ open_in_new: false
 # favicon: /favicon.png
 
 #你的头像url
-avatar: https://bkimg.cdn.bcebos.com/pic/5bafa40f4bfbfbed903bb2d77ff0f736afc31f33?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2UxODA=,xp_5,yp_5
+avatar: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1595309120659&di=8b737637cbd3d9ac674aeb410c7e6ac9&imgtype=0&src=http%3A%2F%2Fd.ifengimg.com%2Fmw600%2Fimg1.ugc.ifeng.com%2Fnewugc%2F20171128%2F10%2Fwemedia%2Ff713471abdc51030ff0d818414a7de925b687e7e_size1260_w1280_h1920.jpg
 #是否开启分享
 share: false
 #是否开启云标签
