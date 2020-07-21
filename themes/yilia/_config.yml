@@ -36,7 +36,7 @@ open_in_new: false
 # favicon: /favicon.png
 
 #你的头像url
-avatar: https://github.githubassets.com/images/modules/logos_page/Octocat.png
+avatar: https://bkimg.cdn.bcebos.com/pic/5bafa40f4bfbfbed903bb2d77ff0f736afc31f33?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2UxODA=,xp_5,yp_5
 #是否开启分享
 share: false
 #是否开启云标签
