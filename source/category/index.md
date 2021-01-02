@@ -5,7 +5,7 @@ comments: false
 ---
 
 # 美少女战士
-<!-- - [相拥过(KV)](/categories/相拥过/) -->
+- [相拥过(KV)](/categories/相拥过/)
 - [想不起(KV)](/categories/想不起/)
 - [星星的碎末](/categories/星星的碎末/)
 - [黄金物语](/categories/黄金物语/)
