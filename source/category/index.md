@@ -8,7 +8,7 @@ comments: false
 <!-- - [相拥过(KV)](/categories/相拥过/) -->
 - [想不起(KV)](/categories/想不起/)
 - [星星的碎末](/categories/星星的碎末/)
-<!-- - [黄金物语](/categories/黄金物语/) -->
+- [黄金物语](/categories/黄金物语/)
 <!-- - [神知道的麻布十番](/categories/神知道的麻布十番/)  -->
 
 ---
