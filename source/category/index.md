@@ -20,4 +20,4 @@ comments: false
 
 ---
 # 其他
-- [其他](/categories/其他/)
+- [青法](/categories/青法/)
